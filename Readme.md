@@ -92,3 +92,6 @@ nothing to commit, working tree clean*
 ## Переключение веток
 
 Для переключения между существующими ветками в файле используется команда **git checkout** + *name branch*
+
+>Чтобы  вернуться на основную ветку необходимо выполнить команду в VS Code - *git chechkout master*
+
