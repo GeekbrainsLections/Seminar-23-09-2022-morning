@@ -158,4 +158,14 @@ remote add shortname url*:
 
 >git remote add origin https://github.com/kuschneroff/classwork.git 
 
+## Отправка изменений в удаленный репозиторий (Push)
 
+Когда вы хотите поделиться своими наработками, вам необходимо отправить их в
+удалённый репозиторий. Команда для этого действия простая: *git push (remote-name)
+(branch-name)* или git push -u origin main (или master).
+* направляем то, что имеем в локальном репозитории в интернет (в сеть).
+
+Например, **git push origin master**
+
+>Важно!!!
+> указать какая будет ветка основной с помощью команды *git branch -M main*
