@@ -165,6 +165,25 @@
 
 <center>
 
+## Добавление _сносок_ на сайты
+
+</center>
+
+* ETF screener <sup> [(1)] </sup>
+
+* Finviz <sup>[(2)] </sup>
+
+* NYMEX <sup> [(3)] </sup>
+
+* ICE <sup>[(4)] </sup>
+
+[(1)]: https://etfdb.com/screener/ "Официальный сайт"
+[(2)]: https://finviz.com/ "Официальный сайт"
+[(3)]: https://www.cmegroup.com/company/nymex.html "Официальный сайт"
+[(4)]: https://www.theice.com/index "Официальный сайт"
+
+<center>
+
 [Вверх](#anchor "Вернуться вначало")
 
 </center>
