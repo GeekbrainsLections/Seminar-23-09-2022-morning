@@ -155,6 +155,16 @@
 
 <center>
 
+## Добавление _ссылки_ на сайт
+
+</center>
+
+[Перейти на сайт GeekBrains](https://gb.ru/ "Официальный сайт")
+
+[GeekBrains раздел 'Программы'](https://gb.ru/courses/all "Раздел Программы")
+
+<center>
+
 [Вверх](#anchor "Вернуться вначало")
 
 </center>
