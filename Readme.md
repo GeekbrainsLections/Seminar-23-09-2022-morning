@@ -27,3 +27,12 @@
 1. git branch name_branch, и далее на эту ветку переходим через checkout 
 
 2. git checkour -b name_branch
+
+# Переход между ветками в Git
+
+Есть два способа перехода между ветками:
+
+1. Команда git checkout name_branch
+
+2. Команда git chekout -b name_branch
+
