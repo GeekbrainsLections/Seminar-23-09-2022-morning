@@ -25,7 +25,10 @@
 ## Список веток
 *git branch*
 Список именованных веток коммитов с указанием выбранной ветки. *git branch -a* подгружает список всех веток проекта из удалённого репозитория.
-*git branch branch_name* создаёт ветку.*git branch -d branch_name* удаляет ветку.
+*git branch branch_name* создаёт ветку. *git branch -d branch_name* удаляет ветку.
 
 ## Слияние веток 
 *git merge branch_name* вызывает слияние веток. При конфликтах позволяет грамотно их решить
+
+## Переход
+*Git checkout branch_name* переход на ветку. *git checkout commit_name* перезод на сохранённый коммит
